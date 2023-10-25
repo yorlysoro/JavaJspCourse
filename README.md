@@ -1,1 +1,1 @@
-# Java JSP Course Excersises
+# Java JSP Course Exersises
