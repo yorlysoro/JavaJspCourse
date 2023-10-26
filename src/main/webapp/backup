@@ -1,0 +1,6 @@
+    <jsp-config>
+        <taglib>
+            <taglib-uri>http://java.sun.com/jsp/jstl/core</taglib-uri>
+            <taglib-location>C:\Users\yorly\.m2\repository\jstl\jstl\1.2\jstl-1.2.jar</taglib-location>
+        </taglib>
+    </jsp-config>
